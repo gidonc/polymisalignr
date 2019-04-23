@@ -2,6 +2,7 @@ Polygon-polygon misalignment problems arise in regressions where the response an
 
 We develop code to address two closely related types of Polygon-Polygon spatial misalignment problems.
 
-Totals. For example, what is the relationship between the number of voters and the population size.
-Compostions. For example, the relationship between social composition and vote share.
+  1. Totals. For example, what is the relationship between the number of voters and the population size.
+  2, Compostions. For example, the relationship between social composition and vote share.
+  
 Although our main substantive interest is in the composition cases, we first develop code to deal with the total case because this is a necessary step in the composition case. Later we aim to extend the method in cases that covariates are provided at multiple different scales.
